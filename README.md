@@ -226,10 +226,13 @@ TikTok - сервис для создания и просмотра коротк
 Исходя из пикового RPS по всем основным запросам (4,161,412.73 RPS), можно рассчитать, что на обработку SSL за одну секунду потребуется:
 4,161,412.73 * 3 мс = 12,484,238.19 мс = 12,484.24 секунд вычислительного времени.
 
+## 5. Логическая схема БД
+
+![TP_DB (1)](https://github.com/user-attachments/assets/02a0eeda-e9f9-4c60-9935-86bba2e5a58e)
+
 ### Использованные источники
 
-1. [How Many People Use TikTok (2024 Statistics)
-By Shubham Singh / August 20, 2024](https://www.demandsage.com/tiktok-user-statistics/)
+1. [How Many People Use TikTok (2024 Statistics) By Shubham Singh / August 20, 2024](https://www.demandsage.com/tiktok-user-statistics/)
 2. [TikTok Revenue and Usage Statistics (2024)](https://www.businessofapps.com/data/tik-tok-statistics/)
 3. [Average Time Spent on TikTok Statistics (2024)](https://explodingtopics.com/blog/time-spent-on-tiktok)
 4. [How Much Data Does TikTok Use & How to Reduce it?](https://blog.talkhome.co.uk/technology/how-much-data-does-tiktok-use/https://blog.talkhome.co.uk/technology/how-much-data-does-tiktok-use/)
