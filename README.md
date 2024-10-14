@@ -253,7 +253,6 @@ TikTok - сервис для создания и просмотра коротк
 | Выбор СУБД     | 	PostgreSQL – для основных продуктовых сущностей, MongoDB – для статистики и метаинформации для подбора видео, Redis - для хранения сессий, ClickHouse для хранения просмотров и лайков, Amazon S3 для хранения видео, Neo4j – для хранения подписок/графов отношений между пользователями. |
 | Индексы        |                                                                                   user.username, comment.video_id, subscribe.target_user_id, view.video_id, video_like.video_id, comment_like.comment_id                                                                                    |
 | Шардинг        |                                                                                     view по video_id, video_like по video_id, comment_like по comment_id, comment по video_id, остальные таблицы по id                                                                                      |
-| Денормализация |                                                             Дублирование метаданных о видео в PostgreSQL и MongoDB, счетчики likes_count, на таблицах video и comment, хотя можно посчитать запросом по like, views_count также                                                             |
 
 ### Индексы
 
