@@ -228,7 +228,7 @@ TikTok - сервис для создания и просмотра коротк
 
 ## 5. Логическая схема БД
 
-![TP_DB](https://github.com/user-attachments/assets/bb026a9b-bf95-4461-817d-142e18a7adb6)
+![TP_DB](https://github.com/user-attachments/assets/67b6d439-cd01-43fa-bee4-ecc0105c8e1b)
 
 ## 6. Физическая схема БД
 
