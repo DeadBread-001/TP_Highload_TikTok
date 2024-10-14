@@ -243,7 +243,7 @@ TikTok - сервис для создания и просмотра коротк
 #### ClickHouse
 ![image](https://github.com/user-attachments/assets/e77ec296-6bb1-4eb5-af6b-7f4a80468bf3)
 #### Kafka
-![image](https://github.com/user-attachments/assets/6225571c-ed43-4fdf-9c34-99dcee783605)
+![image](https://github.com/user-attachments/assets/cffaec4f-0a69-4ab8-a485-6db437683c43)
 #### Neo4j
 ![image](https://github.com/user-attachments/assets/18b0602f-b3aa-4801-a514-1050bbe74034)
 
