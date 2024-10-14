@@ -228,7 +228,7 @@ TikTok - сервис для создания и просмотра коротк
 
 ## 5. Логическая схема БД
 
-![TP_DB](https://github.com/user-attachments/assets/b53ca170-d5e8-49f4-b60d-79f779da1e95)
+![TP_DB](https://github.com/user-attachments/assets/bb026a9b-bf95-4461-817d-142e18a7adb6)
 
 ## 6. Физическая схема БД
 
@@ -241,7 +241,9 @@ TikTok - сервис для создания и просмотра коротк
 #### S3
 ![image](https://github.com/user-attachments/assets/7879ffba-72a5-4938-8aa1-0aa9e786f6a8)
 #### ClickHouse
-![image](https://github.com/user-attachments/assets/f470e00f-9080-4915-8073-d56c82321b5d)
+![image](https://github.com/user-attachments/assets/374b546d-df4b-46c9-b1a3-98ed2af788ea)
+#### Kafka
+![image](https://github.com/user-attachments/assets/2f72d2fe-4e2d-43a2-ba0d-62371cd9e2a9)
 #### Neo4j
 ![image](https://github.com/user-attachments/assets/18b0602f-b3aa-4801-a514-1050bbe74034)
 
