@@ -238,7 +238,7 @@ TikTok - сервис для создания и просмотра коротк
 ![image](https://github.com/user-attachments/assets/a74ba888-a66a-48bd-88e7-54b82446d069)
 #### Redis
 ![image](https://github.com/user-attachments/assets/5f67bb84-854b-43eb-87e7-dee5c29b9671)
-#### Amazon S3
+#### S3
 ![image](https://github.com/user-attachments/assets/7879ffba-72a5-4938-8aa1-0aa9e786f6a8)
 #### ClickHouse
 ![image](https://github.com/user-attachments/assets/f470e00f-9080-4915-8073-d56c82321b5d)
