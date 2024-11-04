@@ -228,10 +228,11 @@ TikTok - сервис для создания и просмотра коротк
 
 ## 5. Логическая схема БД
 
-![Логическая схема](https://github.com/user-attachments/assets/d971bd74-ca65-46d0-ad87-3eb60d53fb2c)
+![Логическа схема](https://github.com/user-attachments/assets/8ae356b6-5b92-4a0b-9e1b-58d4fb190283)
+
 ## 6. Физическая схема БД
 
-![Физическая схема](https://github.com/user-attachments/assets/7575e1d8-ea27-47db-a949-e47c6e82b437)
+![Физическая схема](https://github.com/user-attachments/assets/880e0042-2969-40f7-9410-95d3f72b4dc9)
 
 ### Основные решения
 | Технология     |                                                                                                                       Область применения                                                                                                                        |
