@@ -1,5 +1,3 @@
-# TikTok
-
 ## 1. Тема и целевая аудитория
 
 ### Тема
@@ -228,11 +226,11 @@ TikTok - сервис для создания и просмотра коротк
 
 ## 5. Логическая схема БД
 
-![Логическа схема](https://github.com/user-attachments/assets/8ae356b6-5b92-4a0b-9e1b-58d4fb190283)
+![Логическая схема](https://github.com/user-attachments/assets/c72fc68f-1da4-452f-998d-ac9cfe25926c)
 
 ## 6. Физическая схема БД
 
-![Физическая схема](https://github.com/user-attachments/assets/880e0042-2969-40f7-9410-95d3f72b4dc9)
+![Физическая схема](https://github.com/user-attachments/assets/140f18f4-1c10-49c1-a41b-7095dc812652)
 
 ### Основные решения
 | Технология     |                                                                                                                       Область применения                                                                                                                        |
