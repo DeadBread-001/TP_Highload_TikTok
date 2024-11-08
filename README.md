@@ -529,7 +529,7 @@ comment по video_id, остальные таблицы по id.
 
 ## 9. Схема проекта
 
-![project drawio](https://github.com/user-attachments/assets/58b9b8e3-afcb-4847-b5c6-b55ea21be2bf)
+![project drawio](https://github.com/user-attachments/assets/41445463-9e13-46be-8254-b6277eff4aea)
 
 ### Использованные источники
 
