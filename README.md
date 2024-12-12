@@ -647,7 +647,7 @@ comment по video_id, остальные таблицы по id.
 
 ## 9. Схема проекта
 
-![project](https://github.com/user-attachments/assets/7f4850f4-bc5e-4834-bf6a-b49cca50ce0a)
+![project drawio](https://github.com/user-attachments/assets/c01c703a-e8c9-4647-924f-9dc83264bc24)
 
 ## 10. Обеспечение надежности
 
